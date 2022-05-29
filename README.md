@@ -12,7 +12,7 @@
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Materia:</b> Informatica<br>
 <br>
 <br>
-<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Docente</b> Dodani Vladimir Saavedra Rosas<br>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Docente:</b> Dodani Vladimir Saavedra Rosas<br>
 <br>
 <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Integrantes:</b><br>
