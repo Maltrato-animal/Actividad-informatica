@@ -24,7 +24,9 @@
  <h2>Bibliografia</h2>
 <a href="https://www.expertoanimal.com/el-maltrato-animal-tipos-causas-y-como-denunciar-24291.html">Tipos de maltrato animal</a><br>
 <a href="https://www.webconsultas.com/mascotas/cuestiones-legales/maltrato-animal-como-denunciarlo">Maltrato animal</a><br>
+<a href="https://www.ecologiaverde.com/como-evitar-el-maltrato-animal-1278.html">Evitar el maltrato</a><br>
 <h2><a href =" Maltrato animal.html " > Indice </a></h2><br>
+ 
 
   <br>
   
