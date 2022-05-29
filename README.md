@@ -21,6 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Mireya Michelle Linares Hernández<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Daniela Alexandra Henriquez Guillén<br>
 <br>
+<h2><a href =" Maltrato animal.html " > Indice </a></h2><br>
 
   <br>
   
