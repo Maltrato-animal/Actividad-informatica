@@ -21,9 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Mireya Michelle Linares Hernández<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Daniela Alexandra Henriquez Guillén<br>
 <br>
- <br>
- <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Grado y seccion:</b><br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• General 2¨I¨<br>
+ 
  <h2>Bibliografia</h2>
 <a href="https://www.expertoanimal.com/el-maltrato-animal-tipos-causas-y-como-denunciar-24291.html">Tipos de maltrato animal</a><br>
 <a href="https://www.webconsultas.com/mascotas/cuestiones-legales/maltrato-animal-como-denunciarlo">Maltrato animal</a><br>
